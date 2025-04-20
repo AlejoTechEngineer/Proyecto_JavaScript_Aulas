@@ -1,0 +1,16 @@
+function separarParesImpares(arr) {
+    let resultado = {
+        pares: [],
+        impares: [],    
+};
+
+for (let i=0;i<=arr.length;i++){
+    if (arr[i]%2 === 0){
+        pares.push[i];
+        console.log(pares);
+    }else if (arr[i]%2 !== 0)
+        impares.push[i];
+        console.log(impares);
+    }
+}
+console.log(separarParesImpares([1,2,3,4,5]));

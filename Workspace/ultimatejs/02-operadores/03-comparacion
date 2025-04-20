@@ -1,0 +1,14 @@
+let a = 10;
+//Operadores relacionales
+console.log(a>5);
+console.log(a>=5);
+console.log(a<5);
+console.log(a<=5);
+
+//operadores de igualdad
+console.log(a ==10);
+console.log(a !=10);//verifica si el valor es diferente
+console.log(a =='10'); //solo verifica si tiene el mismo valor
+console.log(a ==='10'); // verifica si tiene el mismo valor Y en adición el mismo tipo de dato
+console.log(a !=='10'); // verifica si tiene el mismo valor O el mismo tipo de dato
+

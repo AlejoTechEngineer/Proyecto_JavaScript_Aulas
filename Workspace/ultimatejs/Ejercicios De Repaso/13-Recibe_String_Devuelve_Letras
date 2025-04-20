@@ -1,0 +1,7 @@
+function totalLetras() {
+    let nombre = "Alejandro";
+    console.log(nombre.length)
+    
+}
+
+totalLetras();

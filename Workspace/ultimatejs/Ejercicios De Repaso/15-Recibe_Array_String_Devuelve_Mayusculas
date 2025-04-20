@@ -1,0 +1,8 @@
+function devMayu(arr) {
+    let animales = ["chanchito", "caballo","tiburon"];
+    animales.push("GATO");
+    console.log(animales);
+
+}
+devMayu();
+

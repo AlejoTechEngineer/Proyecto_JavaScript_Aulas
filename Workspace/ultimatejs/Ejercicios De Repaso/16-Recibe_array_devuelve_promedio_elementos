@@ -1,0 +1,10 @@
+function promedioElemento(arr) {
+    let suma = 0;
+    for (let i = 0;i<arr.length;i++){
+        suma += arr[i];
+    }
+    return (suma/arr.length);
+    
+}
+
+console.log(promedioElemento([1,3,5,7,9,10]));

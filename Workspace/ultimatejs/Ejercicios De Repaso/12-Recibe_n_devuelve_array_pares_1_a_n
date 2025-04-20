@@ -1,0 +1,13 @@
+function arrayPares(num) {
+    let pares = [];//creo array vacio para guardar los pares
+
+    for (let i = 1; i<=num;i++){
+        if (i%2 === 0){
+            pares.push(i);//Este método agrega el valor i al final del array pares.
+        }
+    }
+    return pares;
+    
+}
+
+console.log(arrayPares(5));

@@ -1,0 +1,12 @@
+function stringPalindromo(palabra) {
+    let limpia = palabra.toLowerCase();
+    let invertida = limpia.split("").reverse().join("");
+    if (limpia === invertida){
+        console.log("Es palindroma", limpia);
+    }else{
+        console.log("No es palindroma");
+    }
+    
+}
+
+stringPalindromo("liLaLil");

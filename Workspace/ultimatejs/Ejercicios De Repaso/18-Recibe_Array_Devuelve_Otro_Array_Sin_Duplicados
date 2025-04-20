@@ -1,0 +1,8 @@
+function sinDuplicados(arr) {
+    return [...new Set(arr)];
+
+    
+}
+
+console.log(sinDuplicados([1,2,3,3,4,4,5]));
+
