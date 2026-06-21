@@ -33,6 +33,21 @@ Repositorio de prácticas de aula en **JavaScript ES6+**: ejercicios de programa
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Proyecto_JavaScript_Aulas] --> B[Workspace/ultimatejs/]
+    A --> C[Aula_de_JavaScript_Explicacion_Detallada.docx]
+    B --> D[01-tipos/ - Tipos de datos JS]
+    B --> E[02-operadores/ - Operadores y expresiones]
+    B --> F[03-control-flujo/ - if / for / while / switch]
+    B --> G[04-ejercicios/ - Ejercicios practicos]
+    B --> H[05-objetos/ - OOP - Objetos y Clases ES6]
+    B --> I[Ejercicios De Repaso/]
+    B --> J[app.js / index.html]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
