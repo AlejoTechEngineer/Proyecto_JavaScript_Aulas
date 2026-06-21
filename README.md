@@ -26,13 +26,6 @@ Repositorio de prácticas de aula en **JavaScript ES6+**: ejercicios de programa
 | ES6+ Features | Arrow functions, destructuring, spread/rest, modules |
 | Almacenamiento | localStorage, sessionStorage |
 
-## Contexto académico
-
-**Asignatura:** Desarrollo Web con JavaScript · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -47,6 +40,13 @@ flowchart TD
     B --> I[Ejercicios De Repaso/]
     B --> J[app.js / index.html]
 ```
+
+## Contexto académico
+
+**Asignatura:** Desarrollo Web con JavaScript · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 
